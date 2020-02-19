@@ -73,6 +73,9 @@ input, select, textarea {
 }
 
 /* Basic */
+	a {
+		text-decoration: none;
+	}
 	.git-hub, .linkedin, .edabit{
 		width: 80%;
 		margin: 3% auto;
