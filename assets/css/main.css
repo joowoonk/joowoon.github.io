@@ -2125,14 +2125,14 @@ input, select, textarea {
 	}
 
 		#top .image {
-			border-radius: 80%;
+			border-radius: 50%;
 			width: 20em;
 			height: 20em;
 			margin: 0 auto;
 		}
 
 			#top .image img {
-				border-radius: 80%;
+				border-radius: 50%;
 			}
 
 		#top h1 {
