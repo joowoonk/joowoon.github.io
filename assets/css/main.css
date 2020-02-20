@@ -1,6 +1,9 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,600,600italic,700");
 @import url("fontawesome-all.min.css");
 
+
+@borderColoring: red;
+
 /*
 	Miniport by HTML5 UP
 	html5up.net | @ajlkn
@@ -181,6 +184,7 @@ input, select, textarea {
 
 		h1 strong {
 			font-weight: 700;
+			background-color: @borderColoring;
 		}
 
 	h2 {
